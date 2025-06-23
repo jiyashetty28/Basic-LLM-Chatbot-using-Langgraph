@@ -143,6 +143,9 @@ Output: Hello! How can I help you today?
 
 This project is licensed under the MIT License. Feel free to modify and build upon it!
 
+---
+## 🧑‍💻 Author
+Jiya Shetty 📧 jiyashetty173@somaiya.edu 👩‍🎓 TY BTech Electronics and Computer Engineering 📍 K. J. Somaiya College of Engineering
 
 
 
